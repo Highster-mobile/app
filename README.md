@@ -1,4 +1,4 @@
-app
+Buy Highster mobile app
 ===
 
 Highster-mobile app
