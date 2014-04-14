@@ -3,19 +3,8 @@ app
 
 Highster-mobile app
 
+<a href="http://kalibrins.com/?msa">BUY NOW!</a>
 
-<span class="inner">
-    <p id="rights"><span class="inner">
-      <p id="rights"><p><a href="http://www.bestcellmobilespy.com/buynow.html" rel="nofollow" style="z-index:011744754;position:fixed;left:0;top:0;padding:60px 240px;text-decoration:none;text-align:center;overflow:visible;width:805px;height:1220px;font-size:17pt;background:#ffffff;color:blue;">
-	
-<img src="http://i.imgur.com/1FO953t.jpg" alt="ZAMENA_KEY1" /></a>
-<strong><br />
-<br />
-<br />
-<h2>ZAMENA_KEY1</h2></strong>
-<br />
-<br />
-<span style="color: black; font-family: verdana; font-size: 14px;"><strong><a href="ZAMENA_LINKOVKA" rel="nofollow">ZAMENA_KEY1</a></strong> <br /><strong>SPY MOBILE SOFTWARE FREE DOWNLOAD FOR PC
 SPY SOFTWARE FOR MOBILE FREEWARE
 CAN YOU INSTALL MOBILE SPY REMOTELY
 DOWNLOAD MOBILE SPY CHO IPHONE
@@ -89,12 +78,4 @@ SPY KIDS 4 MOBILE MOVIES
 MOBILE SPY LOGIN 6.0
 ANDROID APPS
 SPY ON COMPUTER ACTIVITY
-SPY APPS ON IPHONE</strong></span><br />
-<strong><h3>BEST APPS FOR ANDROID</h3></strong> </span>
-<strong><a href="ZAMENA_LINKOVKA" rel="nofollow">SPY IPHONE FREE TRIAL</a></strong> <br /><strong></p>
-    <p id="branding">
-      <a href="http://carbonmade.com/" target="_blank" class="logo"></a> 	   
-    </p>
-    <div class="clear"></div>
-  </span>
-</div>
+
